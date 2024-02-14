@@ -1,2 +1,2 @@
 # Projects
-It contains all the source code of the github projects
+It contains all the source code related to the projects
